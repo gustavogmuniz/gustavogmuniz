@@ -1,5 +1,7 @@
 ### Gustavo Grorossi Muniz
 
+Olá, meu nome é Gustavo Grorossi Muninz estudante de Desenvolvimento de Sistemas na ETEC Zona Leste no programa P-TECH
+
 <div align="center">
   <a href="https://github.com/gustavogmuniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogmuniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
