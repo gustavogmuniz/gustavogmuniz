@@ -1,5 +1,5 @@
 <div align="center">
-<br><h2>📚 | Fatec Zona Leste (P-TECH)</h2></br>
+<br><h1>📚 | Fatec Zona Leste (P-TECH)</h1></br>
 </div>
 
 <div align="center">
