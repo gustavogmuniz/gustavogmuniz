@@ -21,9 +21,4 @@
                                                                                                                                     
    ![Snake animation](https://github.com/gustavogmuniz/gustavogmuniz/blob/output/github-contribution-grid-snake.svg)
                                                                                                                                              
-<br />     
-  
-<div align="center"> 
-  <a href="https://instagram.com/gustavogmuniz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://github.com/gustavogmuniz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
+<br />
