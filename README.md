@@ -1,6 +1,4 @@
-<div align="center">
-<br><h1>📚 | Fatec Zona Leste (P-TECH)</h1></br>
-</div>
+<center><br><h2>📚 | Fatec Zona Leste (P-TECH)</h2></br></center>
 
 <div align="center">
   <a href="https://github.com/gustavogmuniz">
