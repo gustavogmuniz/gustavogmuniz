@@ -1,4 +1,4 @@
-<div align="center" height="100px" width="50px"><br>
+<div align="center"><br>
 📚 | Fatec Zona Leste (P-TECH)
 </div></br>
 
